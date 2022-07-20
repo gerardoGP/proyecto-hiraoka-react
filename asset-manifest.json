@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto-hiraoka-react/static/css/main.2b5d4aab.css",
-    "main.js": "/proyecto-hiraoka-react/static/js/main.23cd835f.js",
+    "main.js": "/proyecto-hiraoka-react/static/js/main.9b3be724.js",
     "static/js/787.b978bd17.chunk.js": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js",
     "static/media/carousel3.webp": "/proyecto-hiraoka-react/static/media/carousel3.b5125ed6ed9b4d6fbae5.webp",
     "static/media/carousel5.webp": "/proyecto-hiraoka-react/static/media/carousel5.85056bb017e0210ce668.webp",
@@ -13,6 +13,7 @@
     "static/media/carousel1.webp": "/proyecto-hiraoka-react/static/media/carousel1.d9d5167803628a90f6e4.webp",
     "static/media/carousel4.webp": "/proyecto-hiraoka-react/static/media/carousel4.f750d6d773f7aa29864d.webp",
     "static/media/refri1.webp": "/proyecto-hiraoka-react/static/media/refri1.d6559885e54a4374a1fe.webp",
+    "static/media/libro_reclamaciones_indecopi2.webp": "/proyecto-hiraoka-react/static/media/libro_reclamaciones_indecopi2.320b26efce97d95a892b.webp",
     "static/media/1_324.webp": "/proyecto-hiraoka-react/static/media/1_324.6672e934cdf656abedee.webp",
     "static/media/126445_3.webp": "/proyecto-hiraoka-react/static/media/126445_3.82f29c3d4100b2df5c58.webp",
     "static/media/a22-64gb.webp": "/proyecto-hiraoka-react/static/media/a22-64gb.9c7afc85933922213868.webp",
@@ -27,14 +28,15 @@
     "static/media/126444_2.webp": "/proyecto-hiraoka-react/static/media/126444_2.c8e2cea2c2c4caebc41c.webp",
     "index.html": "/proyecto-hiraoka-react/index.html",
     "static/media/logo.webp": "/proyecto-hiraoka-react/static/media/logo.7638fadf68ad479687b9.webp",
+    "static/media/facebook.webp": "/proyecto-hiraoka-react/static/media/facebook.417daa04c16b3028778f.webp",
     "static/media/group-5.webp": "/proyecto-hiraoka-react/static/media/group-5.04364adc0ac3a56bbf55.webp",
     "static/media/group-3.webp": "/proyecto-hiraoka-react/static/media/group-3.90a176c8f5cadbeb69bc.webp",
     "main.2b5d4aab.css.map": "/proyecto-hiraoka-react/static/css/main.2b5d4aab.css.map",
-    "main.23cd835f.js.map": "/proyecto-hiraoka-react/static/js/main.23cd835f.js.map",
+    "main.9b3be724.js.map": "/proyecto-hiraoka-react/static/js/main.9b3be724.js.map",
     "787.b978bd17.chunk.js.map": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b5d4aab.css",
-    "static/js/main.23cd835f.js"
+    "static/js/main.9b3be724.js"
   ]
 }
