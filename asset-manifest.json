@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/proyecto-hiraoka-react/static/css/main.2b5d4aab.css",
-    "main.js": "/proyecto-hiraoka-react/static/js/main.9b3be724.js",
+    "main.css": "/proyecto-hiraoka-react/static/css/main.b4662bed.css",
+    "main.js": "/proyecto-hiraoka-react/static/js/main.7f72ed82.js",
     "static/js/787.b978bd17.chunk.js": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js",
     "static/media/carousel3.webp": "/proyecto-hiraoka-react/static/media/carousel3.b5125ed6ed9b4d6fbae5.webp",
     "static/media/carousel5.webp": "/proyecto-hiraoka-react/static/media/carousel5.85056bb017e0210ce668.webp",
@@ -22,21 +22,26 @@
     "static/media/127583-3.webp": "/proyecto-hiraoka-react/static/media/127583-3.e952358c9a49640bc996.webp",
     "static/media/1_319.webp": "/proyecto-hiraoka-react/static/media/1_319.0e2bf0ea283840ea4ff2.webp",
     "static/media/127463-0.webp": "/proyecto-hiraoka-react/static/media/127463-0.6297464f4b3cb0619272.webp",
+    "static/media/niubus-logo-final_3.webp": "/proyecto-hiraoka-react/static/media/niubus-logo-final_3.440c768426efdde5ab85.webp",
     "static/media/126447_2.webp": "/proyecto-hiraoka-react/static/media/126447_2.818c6ae3dd69b7a14eac.webp",
     "static/media/127581-0.webp": "/proyecto-hiraoka-react/static/media/127581-0.fbb65fa7ff51aab7605a.webp",
     "static/media/126448_1.webp": "/proyecto-hiraoka-react/static/media/126448_1.0631aeb46a8f71f5c29a.webp",
     "static/media/126444_2.webp": "/proyecto-hiraoka-react/static/media/126444_2.c8e2cea2c2c4caebc41c.webp",
     "index.html": "/proyecto-hiraoka-react/index.html",
     "static/media/logo.webp": "/proyecto-hiraoka-react/static/media/logo.7638fadf68ad479687b9.webp",
+    "static/media/blog.webp": "/proyecto-hiraoka-react/static/media/blog.d50c8cf73b4ffdb61e8b.webp",
+    "static/media/instagram.webp": "/proyecto-hiraoka-react/static/media/instagram.512e8b0037f7de9a6529.webp",
+    "static/media/twitter.webp": "/proyecto-hiraoka-react/static/media/twitter.f5ebdf2c23566b8ac436.webp",
+    "static/media/youtube.webp": "/proyecto-hiraoka-react/static/media/youtube.fb41517af087e1955987.webp",
     "static/media/facebook.webp": "/proyecto-hiraoka-react/static/media/facebook.417daa04c16b3028778f.webp",
     "static/media/group-5.webp": "/proyecto-hiraoka-react/static/media/group-5.04364adc0ac3a56bbf55.webp",
     "static/media/group-3.webp": "/proyecto-hiraoka-react/static/media/group-3.90a176c8f5cadbeb69bc.webp",
-    "main.2b5d4aab.css.map": "/proyecto-hiraoka-react/static/css/main.2b5d4aab.css.map",
-    "main.9b3be724.js.map": "/proyecto-hiraoka-react/static/js/main.9b3be724.js.map",
+    "main.b4662bed.css.map": "/proyecto-hiraoka-react/static/css/main.b4662bed.css.map",
+    "main.7f72ed82.js.map": "/proyecto-hiraoka-react/static/js/main.7f72ed82.js.map",
     "787.b978bd17.chunk.js.map": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b5d4aab.css",
-    "static/js/main.9b3be724.js"
+    "static/css/main.b4662bed.css",
+    "static/js/main.7f72ed82.js"
   ]
 }
