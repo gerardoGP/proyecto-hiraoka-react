@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto-hiraoka-react/static/css/main.5e0c3679.css",
-    "main.js": "/proyecto-hiraoka-react/static/js/main.a8585b7c.js",
+    "main.js": "/proyecto-hiraoka-react/static/js/main.a68b6c09.js",
     "static/js/787.b978bd17.chunk.js": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js",
     "static/media/carousel3.webp": "/proyecto-hiraoka-react/static/media/carousel3.b5125ed6ed9b4d6fbae5.webp",
     "static/media/carousel5.webp": "/proyecto-hiraoka-react/static/media/carousel5.85056bb017e0210ce668.webp",
@@ -21,11 +21,11 @@
     "static/media/youtube.webp": "/proyecto-hiraoka-react/static/media/youtube.fb41517af087e1955987.webp",
     "static/media/facebook.webp": "/proyecto-hiraoka-react/static/media/facebook.417daa04c16b3028778f.webp",
     "main.5e0c3679.css.map": "/proyecto-hiraoka-react/static/css/main.5e0c3679.css.map",
-    "main.a8585b7c.js.map": "/proyecto-hiraoka-react/static/js/main.a8585b7c.js.map",
+    "main.a68b6c09.js.map": "/proyecto-hiraoka-react/static/js/main.a68b6c09.js.map",
     "787.b978bd17.chunk.js.map": "/proyecto-hiraoka-react/static/js/787.b978bd17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e0c3679.css",
-    "static/js/main.a8585b7c.js"
+    "static/js/main.a68b6c09.js"
   ]
 }
